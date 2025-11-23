@@ -1,0 +1,9 @@
+Сохраненные настройки Git:
+Имя: gafar87
+Email: gafar0112@gmail.com
+
+Команды для настройки (выполните после установки Git):
+git config --global user.name "gafar87"
+git config --global user.email "gafar0112@gmail.com"
+
+
